@@ -55,7 +55,8 @@
         "custom_id": 1746825451,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "weather_id": 1746825451
       },
       {
         "campus_id": 102527513,
@@ -63,14 +64,18 @@
         "country_id": 85633793,
         "county_id": 102085387,
         "custom_id": 1746825451,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "weather_id": 1746825451
       }
     ],
     "wof:id": 1746825451,
-    "wof:lastmodified": 1639354977,
+    "wof:lastmodified": 1717005217,
     "wof:name": "FAA status for SFO, 2021-12-12T16:22:54",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "weather"
+    ],
     "wof:repo": "sfomuseum-data-faa-2021",
     "wof:superseded_by": [],
     "wof:supersedes": []
